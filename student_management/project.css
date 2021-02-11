@@ -1,0 +1,119 @@
+.id{
+    background: #c68c53;
+}
+.first{
+    text-align: center;
+    padding: 300px 0 0 500px;
+}
+.grt{
+    color: #fff;
+    font-weight: bold;
+}
+a:link{
+    text-decoration: none;
+}
+a{
+    color: #fff;
+    font-weight: bold;
+}
+.tre{
+     background: #000000;
+    height: 1400px;
+    margin: 2px;
+    padding: 30px 0 0 40px;
+    top: -50px;
+    z-index: -1;
+}
+.tre a{
+    font-size: 25px;
+}
+.das{
+    color: #000;
+}
+.dip {
+    background: url("image/images%20(54).jpeg");
+    background-size: cover;
+    width: 250px;
+    height: 150px;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 20px;
+}
+.result {
+    background: url("image/images%20(56).jpeg");
+    background-size: cover;
+    width: 250px;
+    height: 150px;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 20px;
+}
+.contact {
+    background: url("image/images%20(57).jpeg");
+    background-size: cover;
+    width: 250px;
+    height: 150px;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 20px;
+}
+.message {
+    background: url("image/images%20(59).jpeg");
+    background-size: cover;
+    width: 250px;
+    height: 150px;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 20px;
+}
+.liy {
+    margin: 20px;
+}
+#deep{
+    background: #000066;
+    background-size: cover;
+    width: 250px;
+    height: 150px;
+    margin: 10px;
+    padding: 20px;
+     border-radius: 3px;
+}
+#deep h4{
+    color: #fff;
+}
+#reep{
+    background: #ff3300;
+    background-size: cover;
+    width: 250px;
+    height: 150px;
+    margin: 10px;
+    padding: 20px;
+     border-radius: 3px;
+}
+#reep h4{
+    color: #fff;
+}
+#drep{
+    background: darkgreen;
+    background-size: cover;
+    width: 250px;
+    height: 150px;
+    margin: 10px;
+    padding: 20px;
+     border-radius: 3px;
+}
+#drep h4{
+    color: #fff;
+}
+#derp{
+    background: #e68a00;
+    background-size: cover;
+    width: 250px;
+    height: 150px;
+    margin: 10px;
+    padding: 20px;
+     border-radius: 3px;
+}
+#derp h4{
+    color: #fff;
+}
