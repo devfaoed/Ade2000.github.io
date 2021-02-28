@@ -1,0 +1,207 @@
+html{
+    height: 100px;
+}
+
+.id{
+    background: #c68c53;
+}
+
+.first{
+    text-align: center;
+    padding: 300px 0 0 500px;
+}
+.grt{
+    color: #fff;
+    font-weight: bold;
+}
+a:link{
+    text-decoration: none;
+}
+a{
+    color: #fff;
+    font-weight: bold;
+}
+.tre{
+    background: #000000;
+    height: 1400px;
+    margin: 2px;
+    padding: 30px 0 0 40px;
+    top: -50px;
+    z-index: -1;
+    
+}
+.tre a{
+    font-size: 25px;
+}
+.das{
+    color: #000;
+}
+.dip {
+    background: url("image/images%20(54).jpeg");
+    background-size: cover;
+    width: 250px;
+    height: 150px;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 20px;
+}
+.result {
+    background: url("image/images%20(56).jpeg");
+    background-size: cover;
+    width: 250px;
+    height: 150px;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 20px;
+}
+.contact {
+    background: url("image/images%20(57).jpeg");
+    background-size: cover;
+    width: 250px;
+    height: 150px;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 20px;
+}
+.message {
+    background: url("image/images%20(59).jpeg");
+    background-size: cover;
+    width: 250px;
+    height: 150px;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 20px;
+}
+.liy {
+    margin: 20px;
+}
+#deep{
+    background: #000066;
+    background-size: cover;
+    width: 250px;
+    height: 150px;
+    margin: 10px;
+    padding: 20px;
+     border-radius: 3px;
+}
+#deep h4{
+    color: #fff;
+}
+#reep{
+    background: #ff3300;
+    background-size: cover;
+    width: 250px;
+    height: 150px;
+    margin: 10px;
+    padding: 20px;
+     border-radius: 3px;
+}
+#reep h4{
+    color: #fff;
+}
+#drep{
+    background: darkgreen;
+    background-size: cover;
+    width: 250px;
+    height: 150px;
+    margin: 10px;
+    padding: 20px;
+     border-radius: 3px;
+}
+#drep h4{
+    color: #fff;
+}
+#derp{
+    background: #e68a00;
+    background-size: cover;
+    width: 250px;
+    height: 150px;
+    margin: 10px;
+    padding: 20px;
+     border-radius: 3px;
+}
+#derp h4{
+    color: #fff;
+}
+.too{
+    padding: 150px 0 0 0;
+}
+.too h3{
+    font-family: "tw cen mt";
+} 
+.tro{
+    background: #fff;
+    width: 400px;
+    height: 350px;
+} 
+.ht{
+    padding: 80px 0 80px 0;
+    text-shadow: 2px 3px 5px orange,
+                4px 6px 4px yellow,
+                7px 10px 3px #fff;
+    color: #fff;
+    font-size: 80px;
+}
+#ht{
+    padding: 0 0 80px 0;
+}
+.head{
+    font-size: 25px;
+}
+.reg{
+    background-color: black;
+    color: white;
+    font-weight: 600;
+}
+.rew{
+    padding: 0 0 0 90px;
+    height: 800px;
+}
+.wq{
+    padding: 80px 0 0 0;
+}
+.tew{
+    padding: 0 0 0 80px;
+    font-size: 30px;
+}
+.text{
+    background: #bfbfbf;
+    height: 300px;
+    margin: 20px;
+    padding: 20px 0 0 0;
+    border-radius: 5px;
+}
+.te{
+    background: #ff3300;
+    height: 300px;
+    margin: 20px;
+    padding: 20px 0 0 0;
+    border-radius: 5px;
+}
+.t{
+    background: #80ff00;
+    height: 300px;
+    margin: 20px;
+    padding: 20px 0 0 0;
+    border-radius: 5px;
+}
+.e{
+    background: #00bfff;
+    height: 300px;
+    margin: 20px;
+    padding: 20px 0 0 0;
+    border-radius: 5px;
+}
+.squad{
+    background-color:  #d9b38c;
+}
+.squad p{
+    font-family: "tw cen mt";
+    font-weight: 700;
+    font-size: 2em;
+}
+.form{
+    background: #fff;
+    height: 270px;
+    width: 320px;
+}
