@@ -1,0 +1,38 @@
+.squad{
+    background: mediumpurple;
+    color: #fff;
+}
+
+a:link{
+    text-decoration: none;
+}
+.mesage{
+    padding: 50px 0 4 0;
+}
+.img{
+    width: 100px;
+    height: 100px;
+}
+.video{
+    width: 350px;
+    height: 310px;
+    
+}
+.logo{
+    width: 15%;
+}
+.vid{
+    padding: 0 0 0 40px;
+}
+h3{
+    font-family: "Comic Sans MS";
+}
+.text{
+     padding: 0 0 0 100px;
+}
+.us{
+    height: 50px;
+}
+.sap{
+    font-size: 50%.;
+}
