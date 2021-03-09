@@ -1,0 +1,15 @@
+p{
+    font-family: "tw cen mt";
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 30px;
+    margin-left: 10px;
+    border-bottom: 2px solid #f1f1f1;
+    width: 30%;
+}
+img{
+    width: 400px;
+    height: 400px;
+    float: left;
+    margin: 30px;
+}
