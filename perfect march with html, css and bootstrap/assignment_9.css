@@ -1,0 +1,25 @@
+body{
+    background: url("image/images%20(61).jpeg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+html{
+    height: 100%;
+}
+.squad{
+    padding: 25% 0 0 0;
+    text-align: center;
+    color: #fff;
+    text-shadow: 0px 2px 3px red,
+                 0px 6px 4px orange,
+                 0px 4px 18px yellow;
+}
+h1{    
+   font-size: 5em;
+    font-weight: 500;
+}
+hr{
+    width: 400px;
+}
+    
