@@ -1,0 +1,51 @@
+body{
+    background: #232323;
+    font-family: "anavir";
+}
+h1{
+    text-align: center;
+    color: #fff;
+    background-color: steelblue;
+    margin: 0;
+    padding: 10px;
+    text-transform: uppercase;
+    transition: background 1.5s;
+}
+.strip{
+    text-align: center;
+    background: #fff;
+    height: 30px;
+    color: black;
+}
+button{
+    background: none;
+    border: none;
+    height: 100%;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: inherit;
+}
+button:hover{
+    outline: none;
+}
+#streep{
+    max-width: 620px;
+    margin: 20px auto;
+}
+.square{
+    background: pink;
+    border-radius: 15px;
+    width: 30%;
+    margin: 1.66%;
+    float: left;
+    padding-bottom: 30%;
+    transition: background 1.5s;
+}
+.style{
+    background: steelblue;
+}
+.message{
+    display: inline-block;
+    transition: all 1.0s;
+    width: 20%;
+}
